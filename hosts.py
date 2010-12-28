@@ -25,7 +25,8 @@ def main():
        sys.exit(2)
 
 def help():
-    print "Help:"
+    # TODO: add help
+	print "TBD"
 
 if __name__ == "__main__":
     main()
